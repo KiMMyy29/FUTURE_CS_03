@@ -1,7 +1,7 @@
 API Security Assessment Report
 
 **Author:** Kimberly Farai Mago  
-**Programme:** Future Interns — Cybersecurity Track  
+**Programme:** Future Interns — Cybersecurity Task  
 **API Tested:** [JSONPlaceholder](https://jsonplaceholder.typicode.com)  
 **Assessment Type:** Read-Only Security Risk Analysis  
 
