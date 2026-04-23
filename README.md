@@ -65,14 +65,14 @@ Findings Summary
 | 7 | Predictable Resource IDs | `/comments` | 🟡 MEDIUM |
 
 
-##References
+References
 
 - [OWASP API Security Top 10](https://github.com/OWASP/API-Security)
 - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
 - [JSONPlaceholder — Public Test API](https://jsonplaceholder.typicode.com)
 - [POPIA — Protection of Personal Information Act (South Africa)](https://www.justice.gov.za/inforeg/)
 
-##About the Author
+About the Author
 
 Kimberly Farai Mago is a student currently studying Software Design and Network Security, with an interest in cybersecurity, API security, and business analysis.
 
