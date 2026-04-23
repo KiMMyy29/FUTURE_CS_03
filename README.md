@@ -1,11 +1,11 @@
-##API Security Assessment Report
+API Security Assessment Report
 
 **Author:** Kimberly Farai Mago  
 **Programme:** Future Interns — Cybersecurity Track  
 **API Tested:** [JSONPlaceholder](https://jsonplaceholder.typicode.com)  
 **Assessment Type:** Read-Only Security Risk Analysis  
 
-##Project Overview
+Project Overview
 
 This project presents a professional API security assessment conducted on JSONPlaceholder — a public REST API used for testing and prototyping. The goal was to simulate the type of security audit performed by AppSec consultants and cybersecurity agencies on SaaS platforms and production APIs.
 
@@ -14,7 +14,7 @@ The assessment identifies real-world vulnerabilities that would be critical if t
 > **Ethical Disclaimer:** This assessment was conducted exclusively on a demo API designed for public testing. No exploitation, data manipulation, or denial-of-service testing was performed. All requests were read-only (GET). This project is for educational purposes only.
 
 
-##Tools Used
+Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -22,7 +22,7 @@ The assessment identifies real-world vulnerabilities that would be critical if t
 | Browser DevTools | Inspecting network traffic, headers, and response data |
 
 
-##Scope
+Scope
 
 **Endpoints Tested:**
 - `/users`
@@ -42,7 +42,7 @@ The assessment identifies real-world vulnerabilities that would be critical if t
 - Load/stress testing
 
 
-##Methodology
+Methodology
 
 1. Sent GET requests to each endpoint without any authentication or API key
 2. Observed and documented all response data
@@ -52,7 +52,7 @@ The assessment identifies real-world vulnerabilities that would be critical if t
 6. Mapped findings against the [OWASP API Security Top 10](https://github.com/OWASP/API-Security)
 
 
-##Findings Summary
+Findings Summary
 
 | # | Finding | Endpoint | Risk Level |
 |---|---------|----------|------------|
