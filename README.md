@@ -63,3 +63,18 @@ Findings Summary
 | 5 | Lack of Pagination | `/comments`, `/posts` | 🟡 MEDIUM |
 | 6 | Broken Object-Level Authorization (BOLA) | `/comments` | 🔴 HIGH |
 | 7 | Predictable Resource IDs | `/comments` | 🟡 MEDIUM |
+
+
+##References
+
+- [OWASP API Security Top 10](https://github.com/OWASP/API-Security)
+- [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
+- [JSONPlaceholder — Public Test API](https://jsonplaceholder.typicode.com)
+- [POPIA — Protection of Personal Information Act (South Africa)](https://www.justice.gov.za/inforeg/)
+
+##About the Author
+
+Kimberly Farai Mago is a student currently studying Software Design and Network Security, with an interest in cybersecurity, API security, and business analysis.
+
+South Africa  
+[LinkedIn](www.linkedin.com/in/kimberly-mago-87536a269)
